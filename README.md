@@ -1,5 +1,6 @@
 # Hadoop-Single-Node
-Hadoop Single Node Deployment Script
+Hadoop Single Node Deployment Script 
+
 Automated Hadoop Single-Node and Multi-Node Cluster Deployment Scripts for Linux, simplifying Hadoop configuration, HDFS/YARN setup, service initialization, and distributed cluster administration.
 
 
